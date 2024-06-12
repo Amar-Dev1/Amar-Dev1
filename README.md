@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amar-dev1" alt="amar-dev1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/amaroz_yas" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/amaroz_yas?logo=twitter&style=for-the-badge" alt="https://twitter.com/amaroz_yas" /></a> </p>
-
 - 📫 How to reach me **3marofficial249@gmail.com**
 
 - ⚡ Fun fact **I think I am Creative**
