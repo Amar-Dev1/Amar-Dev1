@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amar-dev1&label=Profile%20views&color=0e75b6&style=flat" alt="amar-dev1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amar-dev1" alt="amar-dev1" /></a> </p>
-
 - 📫 Find me on **AmarOffical249@gmail.com**
 
 - ⚡ In Fact **I think I am Creative 😎**
