@@ -5,9 +5,7 @@
 
 - 📫 Find me on **AmarOffical249@gmail.com**
 
-- ⚡ In Fact **I think I am Creative 😎**
-
-<h3 align="left">Ma LinkedIn 👇👇</h3>
+<h3 align="left">My LinkedIn 👇</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amar-yasir-a07970277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amar-yasir-a07970277" height="30" width="40" /></a>
 </p>
