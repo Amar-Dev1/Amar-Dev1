@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👋</h1>
-<h3 align="center">My Name is Amar, a Passionate computer science, backend development and mobile development student, driven to excel in software engineering and make a positive impact in the industry. Continuously striving for self-improvement and staying up to date with advancements in the field. Eager to contribute to innovative projects that help people and improve lives.</h3>
+<h3 align="center">My Name is Amar, a Passionate computer science, backend development and mobile development student, driven to excel in software engineering and make a positive impact in the industry. Continuously striving for self-improvement and staying up to date with advancements in the field. Eager to contribute to innovative projects that help people and also imporve my proffessional experience and stay up to date with job market.</h3>
 <h3 align="center">Seeking to be a proffessional backend devleoper </h3>
 
 - 📫 How to reach me **amaroffical249@gmail.com**
