@@ -1,5 +1,6 @@
 
-<h1 align="center">Yo , I`m Amar 👋</h1>
+<h1 align="center">Hello World 🌍</h1>
+<h2 align="center">I`m Amar 👋</h2>
 <h3 align="center">A passionate Software Engineer ⚡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amar-dev1&label=Profile%20views&color=f4791a&style=flat-square" alt="amar-dev1" /> </p>
