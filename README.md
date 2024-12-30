@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello World 🌍</h1>
 <h2 align="center">I`m Amar 👋</h2>
 <h3 align="center">A passionate Software Engineer ⚡</h3>
