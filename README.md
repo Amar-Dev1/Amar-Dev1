@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amar-dev1&label=Profile%20views&color=f4791a&style=flat-square" alt="amar-dev1" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://amarzcode.vercel.app](https://amarzcode.vercel.app)
+- 👨‍💻 Currently working on **GGLife** project 
 
 - 💬 Ask me about **JS, TS, PY, React, Django**
 
 - 📫 How to reach me **amaroffical249@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
