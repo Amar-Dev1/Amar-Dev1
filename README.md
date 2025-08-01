@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amar-dev1&label=Profile%20views&color=f4791a&style=flat-square" alt="amar-dev1" /> </p>
 
-- 💬 Ask me about **JS, TS, PY, React, Django**
+- 💙 Passionate about TypeScript – it's my go-to!
 
 
 <!--  <h3 align="left">Connect with me:</h3> -->
