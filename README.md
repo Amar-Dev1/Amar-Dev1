@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏽‍💻 About Me:
 🔨 Currently focusing on backend<br>💙 Passionate about<strong> TypeScript</strong> – it's my go-to!
 
 
