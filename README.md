@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:bd93f9&height=200&section=header&text=Amar%20Yasir&fontSize=60&fontColor=f8f8f2&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20-%20Backend%20Focused&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:bd93f9&height=200&section=header&text=Amar%20Yasir&fontSize=60&fontColor=f8f8f2&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20-%20backend%20focused&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://github.com/amar-dev1">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=Specializing+in+high-performance+Node.js;Crafting+elegant+%26+scalable+TypeScript;Building+server+engines+that+scale+gracefully;Turning+ideas+into+robust+software+%F0%9F%9A%80" alt="Typing SVG" />
@@ -96,21 +96,6 @@ Reads a GitHub issue URL, pinpoints the most relevant source files in the repo, 
 </td>
 <td width="50%" valign="top">
 
-### 🕌 [Thikra](https://github.com/amar-dev1/Thikra)
-**Dua, Dhikr & Salat Times Companion App**
-
-A beautifully crafted Islamic mobile app bringing authentic Adhkar, Duas, and precise Prayer Times together — your peaceful daily companion for staying connected to the remembrance of Allah.
-
-`TypeScript` `React Native` `Expo`
-
-[![Download](https://img.shields.io/badge/Download-50FA7B?style=flat-square&logo=googleplay&logoColor=282a36)](https://1024terabox.com/s/1bBlT69f7Lar38np6o7IG0w)
-[![Source](https://img.shields.io/badge/Source-BD93F9?style=flat-square&logo=github&logoColor=282a36)](https://github.com/amar-dev1/Thikra)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🎓 [GGCourse](https://github.com/amar-dev1/GGCourse)
 **Scalable Coursera/Udemy-Inspired Course Platform**
 
@@ -121,6 +106,8 @@ A modern course platform built to serve students and instructors seamlessly — 
 [![Source](https://img.shields.io/badge/Source-BD93F9?style=flat-square&logo=github&logoColor=282a36)](https://github.com/amar-dev1/GGCourse)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ⚡ [Sheikhna](https://github.com/amar-dev1/Sheikhna)
@@ -132,6 +119,19 @@ A premium, responsive Islamic RAG assistant grounded in authentic knowledge from
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-50FA7B?style=flat-square&logo=vercel&logoColor=282a36)](https://sheikhna.netlify.app)
 [![Source](https://img.shields.io/badge/Source-BD93F9?style=flat-square&logo=github&logoColor=282a36)](https://github.com/amar-dev1/Sheikhna)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕌 [Thikra](https://github.com/amar-dev1/Thikra)
+**Dua, Dhikr & Salat Times Companion App**
+
+A beautifully crafted Islamic mobile app bringing authentic Adhkar, Duas, and precise Prayer Times together — your peaceful daily companion for staying connected to the remembrance of Allah.
+
+`TypeScript` `React Native` `Expo`
+
+[![Download](https://img.shields.io/badge/Download-50FA7B?style=flat-square&logo=googleplay&logoColor=282a36)](https://1024terabox.com/s/1bBlT69f7Lar38np6o7IG0w)
+[![Source](https://img.shields.io/badge/Source-BD93F9?style=flat-square&logo=github&logoColor=282a36)](https://github.com/amar-dev1/Thikra)
 
 </td>
 </tr>
