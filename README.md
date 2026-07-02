@@ -130,7 +130,7 @@ A beautifully crafted Islamic mobile app bringing authentic Adhkar, Duas, and pr
 
 `TypeScript` `React Native` `Expo`
 
-[![Download](https://img.shields.io/badge/Download-50FA7B?style=flat-square&logo=googleplay&logoColor=282a36)](https://1024terabox.com/s/1bBlT69f7Lar38np6o7IG0w)
+[![Download](https://img.shields.io/badge/Download-50FA7B?style=flat-square&logo=googleplay&logoColor=282a36)](https://apkhosto.com/bbxjmK6UBsOQvEX/file)
 [![Source](https://img.shields.io/badge/Source-BD93F9?style=flat-square&logo=github&logoColor=282a36)](https://github.com/amar-dev1/Thikra)
 
 </td>
