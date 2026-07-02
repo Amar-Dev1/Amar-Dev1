@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:bd93f9&height=200&section=header&text=Amar%20Yasir&fontSize=60&fontColor=f8f8f2&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20-%20backend%20focused&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:bd93f9&height=200&section=header&text=Amar%20Eid&fontSize=60&fontColor=f8f8f2&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20-%20backend%20focused&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://github.com/amar-dev1">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=Specializing+in+high-performance+Node.js;Crafting+elegant+%26+scalable+TypeScript;Building+server+engines+that+scale+gracefully;Turning+ideas+into+robust+software+%F0%9F%9A%80" alt="Typing SVG" />
